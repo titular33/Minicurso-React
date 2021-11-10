@@ -4,7 +4,7 @@
 
     function  Home(){
         return <div>               
-         <h1>Gol do Galão</h1>
+         <h1>A semana de Engenharia ta top</h1>
           <Contador/>
           </div>
     }
